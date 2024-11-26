@@ -1,5 +1,7 @@
 Shopping/To Do List - Project
 
+<img src="assets/images/overall-view.png">
+
 - Website to create a shpping or To Do list, made as part of a group project to apply HTML, CSS, but mainly JavaScript skills.
 
 - Wireframes made with Balsamiq software
