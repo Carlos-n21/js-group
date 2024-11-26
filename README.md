@@ -5,23 +5,23 @@
 Website to create a shpping or To Do list, made as part of a group project to apply HTML, CSS, but mainly JavaScript skills.
 Initial objective was to create a simple list with a submit new item and be able to delete it. After further brainstorming, other features were added while planning the project and also during coding phase.
 
-- Wireframes made with Balsamiq software
+**Wireframes made with Balsamiq software**
 
-**Mobile view:**<br>
+- Mobile view:<br>
 <img src="assets/images/wireframe-mobile-initial-draw.png">
 
-**Tablet view:**<br>
+- Tablet view:<br>
 <img src="assets/images/wireframe-tablet-initial-draw.png">
 
-**Laptop/Desktop view:**<br>
+- Laptop/Desktop view:<br>
 <img src="assets/images/wireframe-laptop-initial-draw.png">
 
-**Final view:**<br>
+- Final view:<br>
 <img src="assets/images/initial-view.png">
 
-**After adding item to list:**<br>
+- After adding item to list:<br>
 <img src="assets/images/after-item-addition.png">
-
+<br>
 **Main features:** 
   - Add a new item to the list
   <img src="assets/images/submit-feature.png">
@@ -30,7 +30,7 @@ Initial objective was to create a simple list with a submit new item and be able
   <img src="assets/images/delete-item.png">
 
   - Marking an item has done/bought by applying line over item
-  <img src="assets/images/item-done.png"> <img src="assets/images/item-done-crossed.png">
+  <img src="assets/images/item-done.png"> <img src="assets/images/item-done-crossed.png"><br>
 
   - Clearing the full list
   <img src="assets/images/clear-list.png">
