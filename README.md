@@ -1,27 +1,28 @@
-Shopping/To Do List - Project
+**Shopping/To Do List - Project**
 
 <img src="assets/images/overall-view.png">
 
-- Website to create a shpping or To Do list, made as part of a group project to apply HTML, CSS, but mainly JavaScript skills.
+Website to create a shpping or To Do list, made as part of a group project to apply HTML, CSS, but mainly JavaScript skills.
+Initial objective was to create a simple list with a submit new item and be able to delete it. After further brainstorming, other features were added while planning the project and also during coding phase.
 
 - Wireframes made with Balsamiq software
 
-Mobile view:<br>
+**Mobile view:**<br>
 <img src="assets/images/wireframe-mobile-initial-draw.png">
 
-Tablet view:<br>
+**Tablet view:**<br>
 <img src="assets/images/wireframe-tablet-initial-draw.png">
 
-Laptop/Desktop view:<br>
+**Laptop/Desktop view:**<br>
 <img src="assets/images/wireframe-laptop-initial-draw.png">
 
-Final view:<br>
+**Final view:**<br>
 <img src="assets/images/initial-view.png">
 
-After adding item to list:<br>
+**After adding item to list:**<br>
 <img src="assets/images/after-item-addition.png">
 
-- Main features: (add screenshot for each feature)
+**Main features:** 
   - Add a new item to the list
   <img src="assets/images/submit-feature.png">
 
@@ -34,7 +35,7 @@ After adding item to list:<br>
   - Clearing the full list
   <img src="assets/images/clear-list.png">
 
-User stories:
+**User stories:**
 
   1 - New item (must-have):
   User Story: I like to go shopping and find it hard to have a paper list with me, would like to have an app or site on my mobile that I can use to to add a new to-do item to the list, and see all the things I want to buy.
@@ -91,6 +92,10 @@ User stories:
   Tasks:
   - Ability to remove item from list
 
-User stories review: all stories were completed, apart from the clear input field as the input field with clear automatically after submitting an item and the cursor will beready to write a new item, so a specific button is not needed.The objective was achieved in a different way, still effective and providing a good user experience without the need for extra buttons.
+
+**User stories review:** all stories were completed, apart from the clear input field as the input field with clear automatically after submitting an item and the cursor will beready to write a new item, so a specific button is not needed.The objective was achieved in a different way, still effective and providing a good user experience without the need for extra buttons.
+
+**Copyright:**
+This repository is open to public and improvements to the code, design and layout are welcomed.
   
-- Members of the group: Tripta, Tomoko, Carlos 
+**Members of the group:** Tripta, Tomoko, Carlos 
