@@ -4,19 +4,19 @@ Shopping/To Do List - Project
 
 - Wireframes made with Balsamiq software
 
-Mobile view:
+Mobile view:<br>
 <img src="assets/images/wireframe-mobile-initial-draw.png">
 
-Tablet view:
+Tablet view:<br>
 <img src="assets/images/wireframe-tablet-initial-draw.png">
 
-Laptop/Desktop view:
+Laptop/Desktop view:<br>
 <img src="assets/images/wireframe-laptop-initial-draw.png">
 
-Final view:
+Final view:<br>
 <img src="assets/images/initial-view.png">
 
-After adding item to list:
+After adding item to list:<br>
 <img src="assets/images/after-item-addition.png">
 
 - Main features: (add screenshot for each feature)
@@ -35,25 +35,25 @@ After adding item to list:
 User stories:
 
   1 - New item (must-have):
-    User Story: I like to go shopping and find it hard to have a paper list with me, would like to have an app or site on my mobile that I can use to to add a new to-do item to the list, and see all the things I want to buy.
-
-    Acceptance criteria:
-    - Showing different items that the user has added to the list
-    - Allow the user to add more items to the list
-    
-    Tasks:
-    - Create an input text to write new items
-    - Create a button to add items to the list
+  User Story: I like to go shopping and find it hard to have a paper list with me, would like to have an app or site on my mobile that I can use to to add a new to-do item to the list, and see all the things I want to buy.
+  
+  Acceptance criteria:
+  - Showing different items that the user has added to the list
+  - Allow the user to add more items to the list
+  
+  Tasks:
+  - Create an input text to write new items
+  - Create a button to add items to the list
   
   2 - Clear input field (should-have):
-    User story: As a user, I want to clear the text I enter into the input field, so that I can clear the text quickly.
-    
-    Acceptance criteria:
-    - Ability to clear text in text input box
-    
-    Tasks:
-    - Function to clear textbox
-    - Add Clear button to call function
+  User story: As a user, I want to clear the text I enter into the input field, so that I can clear the text quickly.
+  
+  Acceptance criteria:
+  - Ability to clear text in text input box
+  
+  Tasks:
+  - Function to clear textbox
+  - Add Clear button to call function
 
   3 - Good Design (could-have):
   User Story: To Do List should be easy to see and use.
